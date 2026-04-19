@@ -1,0 +1,43 @@
+body {
+  height: 100vh;
+  margin: 0;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: #7faf9c;
+  color: #ffffff;
+}
+
+/* Container */
+.clock {
+  text-align: center;
+  background-color: #274558;
+  padding: 50px 100px;
+  border: 2px white solid;
+  box-shadow:
+    inset 0px 4px 10px rgba(0, 0, 0, 0.5),
+    0px 8px 25px rgba(0, 0, 0, 0.6);
+}
+
+/* Clock title styling */
+.heading {
+  border-bottom: 1px white solid;
+  border-bottom-width: 2px;
+  width: 190px;
+
+  font-size: xx-large;
+  margin: auto;
+}
+
+/* Time display (monospace for equal digit spacing) */
+
+#time {
+  font-size: 50px;
+  font-family: monospace;
+}
+
+/* Milliseconds styling */
+
+#milisec,
+.milisec {
+  font-size: small;
+  font-family: monospace;
+}
