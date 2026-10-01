@@ -1,6 +1,7 @@
 🕒 Digital Clock Web App
 
-A responsive and real-time digital clock built using HTML, CSS, and JavaScript. This project displays the current time dynamically with smooth updates every second, showcasing core JavaScript concepts like DOM manipulation and timing functions.
+A responsive and real-time digital clock built using HTML, CSS, and JavaScript. This project displays the current time dynamically with smooth updates every second, showcasing core JavaScript concepts like DOM manipulation and timing functions. <br/>
+Live link : [https://maazsiddiqui79.github.io/digitalClock/](https://maazsiddiqui79.github.io/digitalClock/)
 
 🚀 Features
 ⏱️ Real-time clock (updates every second)
